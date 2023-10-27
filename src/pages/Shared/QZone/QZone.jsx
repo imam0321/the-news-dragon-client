@@ -1,6 +1,6 @@
-import qzone1 from '../../../assets/images/qZone1.png'
-import qzone2 from '../../../assets/images/qZone3.png'
-import qzone3 from '../../../assets/images/qZone3.png'
+import qzone1 from '../../../assets/qZone1.png'
+import qzone2 from '../../../assets/qZone3.png'
+import qzone3 from '../../../assets/qZone3.png'
 
 const QZone = () => {
   return (

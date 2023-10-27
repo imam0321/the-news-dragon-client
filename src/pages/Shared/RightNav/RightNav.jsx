@@ -7,18 +7,16 @@ import {
   FaInstagram,
 } from "react-icons/fa";
 import QZone from "../QZone/QZone";
-import bg from "../../../assets/images/bg1.png";
+import bg from "../../../assets/bg1.png";
 
 const RightNav = () => {
   return (
     <div>
       <h4 className="mb-3">Login with</h4>
       <Button className="mb-2 w-100" variant="outline-primary">
-        {" "}
         <FaGoogle /> Login with Google
       </Button>
       <Button className="w-100" variant="outline-secondary">
-        {" "}
         <FaGithub /> Login with GitHub
       </Button>
       <div className="mt-4 mb-4">

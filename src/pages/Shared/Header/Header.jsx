@@ -1,5 +1,5 @@
-import Logo from "../../../assets/images/logo.png";
-import Profile from '../../../assets/images/user.png'
+import Logo from "../../../assets/logo.png";
+import Profile from '../../../assets/user.png'
 import moment from "moment";
 import { Button, Container, Nav, Navbar } from "react-bootstrap";
 import Marquee from "react-fast-marquee";
