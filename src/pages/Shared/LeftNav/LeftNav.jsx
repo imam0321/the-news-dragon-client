@@ -1,5 +1,7 @@
 import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
+import EditorsInsight from "../../News/EditorsInsight/EditorsInsight";
+import LeftEditorsInsight from "./LeftEditorsInsight";
 
 
 const LeftNav = () => {
@@ -25,6 +27,7 @@ const LeftNav = () => {
           </button>
         </p>)
       }
+      <LeftEditorsInsight/>
     </div>
   );
 };
